@@ -2,10 +2,7 @@
     "applinks": {
         "details": [{
             "appIDs": ["L3GTYCSW62.com.am.tasks"],
-            "components": [{
-                "/": "/tasksfornotion/*",
-                "comment": "Matches any URL whose path starts with /tasksfornotion/"
-            }]
+            "paths": ["*"]
         }]
     }
 }
